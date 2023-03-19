@@ -1,0 +1,68 @@
+body {
+ background: linear-gradient(90deg, rgb(26, 93, 105) 0%, rgb(209, 219, 222) 50%, rgba(252,176,69,1) 100%);;
+}
+
+h1, h2{
+    text-align: center;
+    font-family: Impact;
+}
+
+h3{
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+p{
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+button {
+    padding: 2%;
+    font-size: 2em;
+    margin-left: 6%;
+    margin-right: auto;
+    margin-bottom: 2%;
+    background-color: khaki;
+    font-family: Impact;
+    border-radius: 9%;
+}
+
+button:hover {
+    background-color: #4682B4;
+}
+
+.designInput {
+    border-radius: 3%;
+}
+
+.positionButton {
+    padding-top: 5%;
+    padding-left: 35%;
+}
+
+.positionTitle {
+    padding-top: 3%;
+}
+
+.positionOutput {
+    border-radius: 10%;
+}
+
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+    border-radius: 20%;
+}
+
+.card {
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+    margin-left: 25%; 
+    margin-right: 25%;
+    border: 6px solid rgb(0, 0, 0);
+    background-color: rgba(0, 0, 0, 0.148);
+}
+
